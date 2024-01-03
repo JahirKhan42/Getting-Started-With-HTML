@@ -1,0 +1,5 @@
+Q5. What is the DOCTYPE Declaration in HTMl?
+
+Answer : 
+The Document Type Declaration, commonly referred to as "DOCTYPE," is an essential declaration at the beginning of an HTML document. It informs the web browser about the version of HTML or XHTML used in the document, which helps the browser to render the content correctly.
+!DOCTYPE html> is the DOCTYPE declaration for HTML5. It signals to the browser that the document is written in HTML5, the latest version of HTML at the time of writing this response.
