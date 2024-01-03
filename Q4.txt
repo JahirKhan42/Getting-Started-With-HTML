@@ -1,0 +1,21 @@
+In HTML, a "tag" is a fundamental component used to define different types of elements within a document. Tags are essential for structuring and formatting content on a webpage. An "element" is made up of an opening tag, content, and a closing tag. Together, they form the building blocks of HTML documents.
+
+Tag:
+
+A tag is a keyword or identifier enclosed in angle brackets ("<" and ">").
+Tags are used to define the structure and semantics of content in HTML.
+HTML tags are case-insensitive, so you can use either uppercase or lowercase letters.
+
+Element:
+
+An element is a complete set of tags that define a specific part of a document.
+It consists of an opening tag, content, and a closing tag.
+The opening tag marks the beginning of the element, the closing tag marks the end, and the content is the information or structure between them.
+Example:
+Consider a simple HTML paragraph element:
+
+<p>This is a sample paragraph.</p>
+
+<p> is the opening tag.
+</p> is the closing tag.
+"This is a sample paragraph." is the content.
